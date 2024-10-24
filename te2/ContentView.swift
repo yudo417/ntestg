@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     @State var move_grad:Bool=true
-    @State private var stage = 0
     var body: some View {
 
         ZStack {
